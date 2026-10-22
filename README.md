@@ -46,5 +46,8 @@ Short, opinionated, with trade-offs: [adr/](adr/)
 ## Status
 Early draft. Sections marked `TODO` are in progress. Issues and pull requests welcome.
 
+## About the author
+Written by Barak, a Data & AI leader working across BI, data engineering, analytics and AI agents. Connect on [LinkedIn](https://il.linkedin.com/in/barakbenk).
+
 ## License
 CC BY 4.0
